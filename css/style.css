@@ -1,0 +1,19 @@
+body {
+   background-color: #f5e6e6;
+}
+h1 {
+   font-size: 25px;
+   color: #5e5e5e;
+   text-decoration: underline;
+   text-transform: uppercase;
+}
+.subtitle {
+   font-size: 21px;
+   color: #ab8f8f;
+   text-transform: uppercase;
+   text-decoration: line-through;
+}
+.text {
+   font-size: 19px;
+   color: #933535;
+}
